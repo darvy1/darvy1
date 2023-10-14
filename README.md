@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @darvy1
+- Currently working on Call Tree Technologies, going smoothly.
+- Also working on some python projects.
