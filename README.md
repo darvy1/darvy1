@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @darvy1
-- Currently working on Call Tree Technologies, going smoothly.
-- Also working on some python projects.
+- 👋 Hi, I’m @darvy1(Timothy K.)
+- Working on Call Tree Technologies https://www calltreetech.com/ website and learning JavaScript.
