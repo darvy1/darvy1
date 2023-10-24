@@ -1,4 +1,4 @@
-p- 👋 Hi there! I’m darvy1(Timothy K.)
+👋 Hi there! I’m darvy1(Timothy K.)
 
 My interests are;
 - Frontend Web development.
